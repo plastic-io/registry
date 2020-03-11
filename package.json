@@ -2,6 +2,7 @@
   "name": "@plastic-io/registry",
   "version": "1.0.0",
   "description": "Graph and vector registry",
+  "private": false,
   "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
