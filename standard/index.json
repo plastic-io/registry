@@ -1,0 +1,64 @@
+{
+    "items" : [
+        {
+            "name": "Basic Graph Controls",
+            "description": "Basic controls for manipuating the graph",
+            "items": [
+                {
+                    "name": "Bang",
+                    "id": "101b6ec2-7177-417b-a870-cba5f4b1c0b8",
+                    "version": 493,
+                    "type": "publishedVector",
+                    "description": "Sends the string BANG out of its output when clicked.  Runs on the client side.",
+                    "artifact": "./Bang_101b6ec2-7177-417b-a870-cba5f4b1c0b8_493_publishedVector.json"
+                },
+            ],
+        },
+        {
+            "name": "JavaScript Primitives",
+            "description": "Primitive types",
+            "items": [
+                {
+                    "name": "String",
+                    "id": "67f24682-0eef-4e78-b454-35e462226eca",
+                    "version": 486,
+                    "type": "publishedVector",
+                    "description": "A primitive string",
+                    "artifact": "./String_67f24682-0eef-4e78-b454-35e462226eca_486_publishedVector.json"
+                },
+                {
+                    "name": "Boolean",
+                    "id": "7873a1b2-8d42-439d-ba45-57b5a514990e",
+                    "version": 488,
+                    "type": "publishedVector",
+                    "description": "A primitive boolean",
+                    "artifact": "./Boolean_7873a1b2-8d42-439d-ba45-57b5a514990e_488_publishedVector"
+                },
+                {
+                    "name": "Number",
+                    "id": "09835674-9558-4d3c-a18b-d5f63ee3e35e",
+                    "version": 490,
+                    "type": "publishedVector",
+                    "description": "A primitive number",
+                    "artifact": "./Number_09835674-9558-4d3c-a18b-d5f63ee3e35e_490_publishedVector.json"
+                },
+                {
+                    "name": "null",
+                    "id": "665d4b45-a919-4f14-aac2-b8dd970385e8",
+                    "version": 487,
+                    "type": "publishedVector",
+                    "description": "A primitive null",
+                    "artifact": "./Null_665d4b45-a919-4f14-aac2-b8dd970385e8_487_publishedVector.json"
+                },
+                {
+                    "name": "undefined",
+                    "id": "4debd8ef-9874-4378-99bd-273047a4714e",
+                    "version": 489,
+                    "type": "publishedVector",
+                    "description": "A primitive number",
+                    "artifact": "./Undefined_4debd8ef-9874-4378-99bd-273047a4714e_489_publishedVector.json"
+                }
+            ]
+        }
+    ]
+}

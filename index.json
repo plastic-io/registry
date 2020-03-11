@@ -1,0 +1,10 @@
+{
+    "items": [
+        {
+            "name": "Standard",
+            "Standard vectors for creating basic graphs."
+            "type": "toc",
+            "artifact": "./standard/index.json"
+        }
+    ]
+}
