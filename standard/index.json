@@ -12,6 +12,15 @@
                     "description": "Sends the string BANG out of its output when clicked.  Runs on the client side.",
                     "icon": "mdi-play",
                     "artifact": "./Bang_101b6ec2-7177-417b-a870-cba5f4b1c0b8_493_publishedVector.json"
+                },
+                {
+                    "name": "Bang",
+                    "id": "101b6ec2-7177-417b-a870-cba5f4b1c0b8",
+                    "version": 494,
+                    "type": "publishedVector",
+                    "description": "Sends the string BANG out of its output when clicked.  Runs on the client side.",
+                    "icon": "mdi-play",
+                    "artifact": "./Bang_101b6ec2-7177-417b-a870-cba5f4b1c0b8_494_publishedVector.json"
                 }
             ]
         },
