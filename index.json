@@ -2,7 +2,7 @@
     "items": [
         {
             "name": "Standard",
-            "description": "Standard vectors for creating basic graphs.",
+            "description": "Standard nodes for creating basic graphs.",
             "type": "toc",
             "artifact": "./standard/index.json"
         }
