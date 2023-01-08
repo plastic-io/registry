@@ -1,6 +1,6 @@
 {
   "name": "@plastic-io/registry",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Graph and node registry",
   "private": false,
   "main": "index.json",
@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/plastic-io/registry#readme",
   "appConfig": {
-    "registry": "https://unpkg.com/@plastic-io/registry@2.0.2",
+    "registries": "https://unpkg.com/@plastic-io/registry@2.0.3",
     "auth0": {
       "domain": "dev-7q-g69up.us.auth0.com",
-      "client_id": "VCDSy72k7efF46kRfsJyizaXOl1gtUKl"
+      "clientId": "VCDSy72k7efF46kRfsJyizaXOl1gtUKl"
     }
   }
 }
